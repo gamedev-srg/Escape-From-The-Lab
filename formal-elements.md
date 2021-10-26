@@ -2,7 +2,7 @@
 
 # Escape From The Lab
 
-**tagline: Solve riddles and break free from the lab, It's time you found out who you really are and got out to see the world**
+**Solve riddles and break free from the lab, It's time you found out who you really are and got out to see the world**
 
 ## Game concept
 
