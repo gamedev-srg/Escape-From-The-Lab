@@ -1,10 +1,10 @@
-<div dir='rtl' lang='he'>
+<div dir='ltr' lang='en'>
 
-# כותרת ראשית: Escape From The Lab
+# Escape From The Lab
 
 **tagline: Solve riddles and break free from the lab, It's time you found out who you really are and got out to see the world**
 
-## מהות המשחק
+## Game concept
 
 This game is a computerized version of an Escape Room.
 The game revolves around solving riddles and finding clues to piece together solution for locks and codes around the room. 
@@ -20,25 +20,23 @@ The game can be suited to both PC and mobile, but it's likely that playing on PC
 ---
 
 
-## רכיבים רשמיים
+## Formal elements
 
-### 1. שחקנים
+### 1. Players
 
 * The game is suited for players age 14+, As some riddles may prove difficult for younger children to solve. It also requires no previous skills, using your head is all it takes to eventually solve every riddle. No technical skill or dexteriry is needed.
 It's suited mainly for players who like riddles and puzzles.
 * The game is suited to 1-3 players
 * The interaction between players is cooperative, you work together to escape
 
-### 2. יעדים
+### 2. Obkectives
 
 * The objective of the game is to escape the lab, you do so by solving every riddle
 * The game will alert the player by providing on-screen messages as the first level loads, to introduce players to the concept of locks and riddles, and also point out the main objective
 * There aren't any side-objectives to complete, as the game is linear in it's progression system.
 
-### 3. תהליכים
-
-תארו בפירוט את:
-
+### 3. Procedures
+  
 * The first moments of the game will have the player break a very simple, obvious riddle using a clue which will be highlighted, This will give the player the understanding of the main gameplay feature (Solving riddles using clues), and give them the satisfaction of opening a lock(=solving a riddle) early on.
 * The core game loop consists of 2 main stages. Looking for clues -> Trying to unlock /solve the riddle. This will lead a player to the next room or riddle, where the process will repeat
 * The game ends once the player solves the final riddle, this is mainly achieved by solving each previous riddle, as each riddle solved will grant access to a clue for the following riddle. Technically, unless a system is placed to prevent it, players can guess their way through the game, but it is very unlikely. (For example a 4 digit password consisting of number 0-9 will be hard to guess right)
@@ -52,7 +50,7 @@ Look at real-life escape rooms, none are simple to solve, and usually players ha
 Players will use the keyboard to move around, the the mouse to interact with objects.
 
 
-### 4. חוקים
+### 4. Rules
 
 * As discussed before - the only rule of the game is that you need to input the correct combination to unlock a lock(=solve a riddle)
 * The first intro level will show the player that entering a wrong cominbation will do nothing, while entering a correct one will unlock the lock.
@@ -60,22 +58,20 @@ Players will use the keyboard to move around, the the mouse to interact with obj
 Like mentioned above, the rules are simple and will be understood immediatly. The hard part is figuring out the SOLUTION to the riddles, not the RULES of the game
 
 
-### 5. משאבים
+### 5. Resources
 
 * The resources are clues, as they are the only thing needed to progress in the game.
 * Clues will be laid out or hidden around the map. Each clue will lead the player closer to unlocking a relavent lock. Once a lock opens, more clues will become available
 * The game-loop itself makes clues rare, as you cannot acquire more clues without first using previous clues to unlock the current lock, which will in turn allow more clues to be discovered.
 * The player will not know how many clues he has left to collect, or how many more are needed to solve the current riddle. It adds to the mystery of the game
 
-### 6. עימותים
-
-מה יהיו העימותים המרכזיים במשחק:
+### 6. Conflicts
 
 * The only real confilct in the game is between the player and system.
 The systems in the game are blocking the player from progressing if he didn't unlock what was required.
 
 
-### 7. גבולות
+### 7. Bounds
 
 
 * The map is closed - not open world. The only playable area is the room the player has unlocked, or previousy unlocked.
@@ -90,7 +86,7 @@ after searching and seeing that no other clues remain, he understands he only ha
 Upon opening it, he finds himself in a room, with no other doors, and a clue the right-door previously mentioned.
 It is now clear that the player has to return to the previous room and unlock the right door.
 
-### 8. תוצאות
+### 8. Outcome
 
 * The game will have only 2 possible outcomes. Success - Solve all the riddles. Faliure - Fail to solve even a single one
 * The game will be cooperative
@@ -98,7 +94,7 @@ It is now clear that the player has to return to the previous room and unlock th
 
 ---
 
-## סקר שוק
+## Market research
 
 Simillar game: Escape 50 rooms1
 
