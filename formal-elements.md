@@ -29,7 +29,7 @@ It's suited mainly for players who like riddles and puzzles.
 * The game is suited to 1-3 players
 * The interaction between players is cooperative, you work together to escape
 
-### 2. Obkectives
+### 2. Objectives
 
 * The objective of the game is to escape the lab, you do so by solving every riddle
 * The game will alert the player by providing on-screen messages as the first level loads, to introduce players to the concept of locks and riddles, and also point out the main objective
