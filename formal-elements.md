@@ -12,7 +12,10 @@ Finding a clue may lead you to the solution, but is it the clue to the lock your
 
 The game can be suited to both PC and mobile, but it's likely that playing on PC will be more comfortable because of view size.
 
-שימו כאן ציור-מסך המתאר את המשחק כפי שאתם רואים אותו בדמיון שלכם.
+<b> Note: Despite the picture depicting the game as 3rd person - The game itself is 3rd person, and the player will not see himself </b>
+
+![Escape_room2](https://user-images.githubusercontent.com/74140353/138944065-d3c870f1-d2aa-41ff-9fa7-5c8c5c514018.png)
+
 
 ---
 
