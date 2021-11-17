@@ -7,7 +7,7 @@ This game simulates a real-life Escape Room!
 You will need solve riddles and discover the correct combintations using clues scattered across the abandoned facillaty to progress throughout the lab you are trapped in!
 
 [Here is a link to a detailed breakdown of the game](https://github.com/gamedev-srg/Escape-From-The-Lab/blob/main/formal-elements.md)
-
+[Here is a link to the itch.io page](https://g-r-s.itch.io/escaperoom)
 ## The Game
 ### Goals:
 Your goal is to solve riddles using clues on the map. further exapnded on in the formal elements.
